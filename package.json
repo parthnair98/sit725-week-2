@@ -1,0 +1,19 @@
+{
+  "name": "sit725",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parthnair98/SIT725.git"
+  },
+  "keywords": [],
+  "author": "Parth",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
